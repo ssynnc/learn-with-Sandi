@@ -233,13 +233,13 @@ function InstructorSection() {
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
               <div className="rounded-full border border-border/50 bg-background px-4 py-2 text-sm font-medium text-foreground">
-                English Expert
+                English Instructor
               </div>
               <div className="rounded-full border border-border/50 bg-background px-4 py-2 text-sm font-medium text-foreground">
-                Korean Specialist
+                Korean Instructor
               </div>
               <div className="rounded-full border border-border/50 bg-background px-4 py-2 text-sm font-medium text-foreground">
-                Curriculum Designer
+                Language Educator
               </div>
             </div>
           </div>
